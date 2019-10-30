@@ -1,0 +1,19 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color:pink;
+  font-family: times;
+}
+
+p{
+  color:blue;
+  background-color: white;
+  padding:10px;
+}
+
+img {border: black 10px dotted;
+  width:40%;
+  height:40%;
+}
