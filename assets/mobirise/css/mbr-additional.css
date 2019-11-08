@@ -2018,32 +2018,6 @@ section.lazy-placeholder:after {
 .cid-rGPaOt6Wox .mbr-section-title {
   color: #ffffff;
 }
-.cid-rHdZ6xeo8j {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-.cid-rHdZ6xeo8j .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rHdZ6xeo8j .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rHdZ6xeo8j .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rHdZ6xeo8j .mbr-text {
-    text-align: center;
-  }
-}
 .cid-rGP2Sn4imT .navbar {
   padding: .5rem 0;
   background: #333333;
