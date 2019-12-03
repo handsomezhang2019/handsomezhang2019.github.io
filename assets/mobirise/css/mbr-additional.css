@@ -41,11 +41,11 @@ body {
 }
 .display-7 {
   font-family: 'PT Serif', serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.76rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -547,11 +547,11 @@ a:hover {
 }
 .form-control {
   font-family: 'PT Serif', serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.76rem;
 }
 blockquote {
   border-color: #149dcc;
